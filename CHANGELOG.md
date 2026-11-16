@@ -4,6 +4,11 @@ All notable changes to ArmorCodex are recorded here. Format follows [Keep a Chan
 
 ## [Unreleased]
 
+## [0.3.8] - 2026-11-16
+
+### Changed
+- Throwaway end-to-end release used to prove auto-update. Not a real ArmorCodex release.
+
 ## [0.3.7] - 2026-11-16
 
 ### Added
